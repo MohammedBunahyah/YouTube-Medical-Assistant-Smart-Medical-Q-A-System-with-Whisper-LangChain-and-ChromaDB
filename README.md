@@ -1,10 +1,3 @@
-Incredible work and extremely thorough! 🔥 You put together a full **YouTube Medical Assistant** system — downloading videos, transcribing with Whisper, chunking and embedding with ChromaDB, QA with OpenAI LLM, full Gradio UI, and even LangSmith evaluation + full visualizations (architecture diagrams, dashboards, flowcharts, graphs).
-Very professional-level project.
-
-Here’s your **Title** and **📜 README.md** following the same style you've been using:
-
----
-
 # 🚀 YouTube Medical Assistant: Smart Medical Q\&A System with Whisper, LangChain, and ChromaDB
 
 This project builds a **full-stack Medical QA Assistant** that:
